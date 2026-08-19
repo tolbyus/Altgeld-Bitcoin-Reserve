@@ -134,3 +134,11 @@ Bitcoin is volatile. The Reserve's value may decline substantially, including fo
 This material is not an offer to sell or a solicitation to buy any security or interest. It is not investment, legal, tax, or accounting advice and creates no rights. The governing documents of ABR Wealth Fund DAO LLC and ABR Foundation control.
 
 Maintained by **Tolbyus Shephard**, founder of the Altgeld Bitcoin Reserve.
+
+## License
+
+- **Documentation and other non-code materials:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - sharing and adaptation are allowed for noncommercial purposes with attribution and ShareAlike.
+- **Software code and scripts:** [MIT](https://opensource.org/license/mit) only when the file or directory is expressly identified as MIT-licensed.
+
+Commercial use of ABR documentation requires separate written permission. See the repository [LICENSE](LICENSE) for the scope, requested attribution, commercial-licensing contact, and the notice concerning earlier repository versions.
+
