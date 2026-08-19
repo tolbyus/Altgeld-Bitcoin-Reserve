@@ -2,6 +2,15 @@
 
 All material changes to the public ABR framework should be recorded here.
 
+## August 19, 2026 - Split Repository Licensing
+
+### Changed
+
+- Documentation and other non-code materials are designated CC BY-NC-SA 4.0.
+- Software source code and scripts are MIT-licensed only when expressly identified as such.
+- Added clear contribution-licensing rules and commercial-licensing contact information.
+- Preserved notice that permissions already granted for earlier MIT-licensed repository versions are not revoked.
+
 ## August 2026 - Governance Framework Refresh
 
 ### Added

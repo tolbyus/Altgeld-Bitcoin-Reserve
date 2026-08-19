@@ -31,3 +31,13 @@ Never include private keys, seed phrases, recovery material, credentials, person
 ## Current Reserve Goal
 
 The 21 BTC figure is ABR's long-term goal, not its current balance. Contributions must not describe the goal as current holdings.
+
+## Contribution Licensing
+
+Unless a pull request clearly states otherwise and ABR agrees in writing:
+
+- Documentation and other non-code contributions are submitted under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+- Software source-code and script contributions are submitted under the [MIT License](LICENSES/MIT.txt) and should be clearly identified as MIT-licensed.
+
+By submitting a contribution, you confirm that you created it or otherwise have the right to submit it under the applicable license. See [LICENSE](LICENSE) for the repository's full licensing notice.
+

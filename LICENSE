@@ -1,21 +1,65 @@
-MIT License
+ABR REPOSITORY LICENSING NOTICE
 
-Copyright (c) 2025 tolbyus
+Copyright (c) 2025-2026 Tolbyus Shephard
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository uses separate licenses for documentation and software code.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. DOCUMENTATION AND OTHER NON-CODE MATERIALS
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Unless a file expressly states otherwise, the documentation and other non-code
+materials in this repository are licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International Public License
+(CC BY-NC-SA 4.0).
+
+This includes README files, Markdown and text documents, PDF documents,
+governance frameworks, policies, educational materials, diagrams, and other
+non-code creative materials.
+
+Official legal terms:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+
+A copy of the license reference is located at:
+LICENSES/CC-BY-NC-SA-4.0.txt
+
+The license permits sharing and adaptation for NonCommercial purposes, provided
+the user gives appropriate attribution, links to the license, indicates
+changes, and distributes adapted material under the same license or a
+BY-NC-SA-compatible license.
+
+Suggested attribution:
+"Altgeld Bitcoin Reserve, created by Tolbyus Shephard,"
+with a link to:
+https://github.com/tolbyus/Altgeld-Bitcoin-Reserve
+
+Commercial use is not granted by CC BY-NC-SA 4.0. For a separate commercial
+license or written permission, contact the Altgeld Bitcoin Reserve through:
+https://altgeldbitcoinreserve.com/
+
+2. SOFTWARE CODE
+
+Software source code and scripts are licensed under the MIT License only when
+the file is expressly identified as MIT-licensed, such as with the SPDX
+identifier "SPDX-License-Identifier: MIT", or when a repository notice
+specifically designates that file or directory as MIT-licensed.
+
+A document, policy, framework, PDF, diagram, or other non-code material is not
+MIT-licensed merely because it is stored in a GitHub repository.
+
+The full MIT License is located at:
+LICENSES/MIT.txt
+
+3. THIRD-PARTY MATERIALS AND RESERVED RIGHTS
+
+Third-party materials remain subject to their own licenses or terms. This
+notice does not grant trademark, publicity, privacy, patent, or endorsement
+rights. The Altgeld Bitcoin Reserve name, logos, and branding may not be used
+to imply sponsorship, approval, or official status without permission.
+
+4. EARLIER REPOSITORY VERSIONS
+
+Earlier repository versions were released under the MIT License, including its
+reference to associated documentation. Permissions already granted for those
+historical versions remain in effect and are not revoked by this change.
+
+The licensing notice included with each repository version should be consulted
+for the terms offered with that version.

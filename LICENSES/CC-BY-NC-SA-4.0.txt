@@ -1,0 +1,12 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0)
+
+Official legal code:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+
+Human-readable summary:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+The official, unmodified Creative Commons legal code at the URL above controls.
+The repository's root LICENSE file identifies the materials to which this
+license is applied and provides the requested attribution.
