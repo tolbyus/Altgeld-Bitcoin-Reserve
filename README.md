@@ -119,6 +119,12 @@ The public record must always distinguish the **21 BTC goal** from the **actual 
 
 HR0446 is an adopted resolution recognizing ABR. SB3743 and HB5621 are proposed bills, not enacted law. Third-party listings are dated records and should not be treated as a substitute for current proof-of-reserves.
 
+## Founder and Stewardship
+
+**Tolbyus Shephard** is the founder and maintainer of the Altgeld Bitcoin Reserve. A Chicago community Bitcoin organizer with roots in Altgeld Gardens, he developed ABR as a Bitcoin-only model connecting disciplined reserve governance, public transparency, financial education, and long-term community wealth-building.
+
+ABR's public record is maintained here so residents, partners, policymakers, and other communities can distinguish the Reserve's verified framework and actual holdings from proposals, goals, or third-party descriptions.
+
 ## Framework Status and Risk
 
 This repository publishes ABR's August 2026 governance and distribution framework. The framework remains under development and is not, by itself, a final governing instrument.
