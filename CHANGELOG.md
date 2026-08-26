@@ -2,6 +2,23 @@
 
 All material changes to the public ABR framework should be recorded here.
 
+## August 26, 2026 - Open-Source Development Expansion
+
+### Added
+
+- Public development roadmap for proof-of-reserve, verification, kiosk, and Community Bitcoin Reserve replication work
+- Draft public technical specification for a read-only transparency architecture
+- Contributor code of conduct
+- Expanded contributor guidance for Bitcoin developers, security researchers, designers, educators, policy researchers, and civic technologists
+- Developer and contributor pathway in the main README
+- Initial public GitHub workstreams for proof-of-reserve dashboard development, Reserve Registry schema, Bitcoin Core verification, threat modeling, kiosk design, and a Community Bitcoin Reserve deployment starter kit
+
+### Technical Boundary
+
+- Public transparency software is defined as read-only and separate from the Reserve transaction-signing path.
+- Public technical tooling must not request, store, or expose seed phrases, private keys, recovery material, signing credentials, or sensitive custody information.
+- Public interfaces must continue to distinguish verified current holdings from the 21 BTC long-term goal.
+
 ## August 19, 2026 - Split Repository Licensing
 
 ### Changed
