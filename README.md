@@ -93,6 +93,32 @@ ABR intends to publicly report:
 
 The public record must always distinguish the **21 BTC goal** from the **actual BTC held**.
 
+## Developers and Contributors
+
+ABR is building a public, open-source technical layer around reserve transparency, Bitcoin verification, public education, and community replication.
+
+Developers, security researchers, designers, civic technologists, accessibility reviewers, educators, policy researchers, and community contributors are welcome.
+
+Current open-source priorities include:
+
+- A read-only proof-of-reserve dashboard
+- A public Reserve Registry and data schema
+- Bitcoin Core-based verification tooling
+- Threat modeling and security review
+- A public kiosk interface for libraries and community spaces
+- A reusable Community Bitcoin Reserve deployment starter kit
+
+**Start here:**
+
+- [Public Development Roadmap](ROADMAP.md)
+- [Technical Specification](docs/TECHNICAL-SPEC.md)
+- [Contributing Guide](CONTRIBUTING.md)
+- [Open GitHub Issues](https://github.com/tolbyus/Altgeld-Bitcoin-Reserve/issues)
+- [Security Policy](SECURITY.md)
+- [Community Code of Conduct](CODE_OF_CONDUCT.md)
+
+The public transparency software is intended to remain **read-only** and outside the Bitcoin signing path. Contributors should never publish or request seed phrases, private keys, recovery material, or sensitive custody information.
+
 ## Governance Documents
 
 - [Reserve, Governance & Community Distribution Framework - Markdown](docs/RESERVE-GOVERNANCE-FRAMEWORK.md)
@@ -141,4 +167,3 @@ Maintained by **Tolbyus Shephard**, founder of the Altgeld Bitcoin Reserve.
 - **Software code and scripts:** [MIT](https://opensource.org/license/mit) only when the file or directory is expressly identified as MIT-licensed.
 
 Commercial use of ABR documentation requires separate written permission. See the repository [LICENSE](LICENSE) for the scope, requested attribution, commercial-licensing contact, and the notice concerning earlier repository versions.
-
